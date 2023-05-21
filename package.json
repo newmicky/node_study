@@ -1,0 +1,23 @@
+{
+  "name": "node-study",
+  "version": "1.0.0",
+  "description": "class101 웹개발 사관학교",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "newmicky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "helmet": "^7.0.0",
+    "iconv-lite": "^0.6.3",
+    "json2xls": "^0.1.2",
+    "mysql2": "^3.3.1",
+    "sequelize": "^6.31.1",
+    "supervisor": "^0.12.0"
+  }
+}
